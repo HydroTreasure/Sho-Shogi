@@ -202,8 +202,6 @@
 
    RESTRICTION:
    1. Redistributions of the Work itself should be licensed under this license.
-
-   EXCEPTION:
-   1. If any code which will not cause any change in the resultant executable code on recompiling e.g. comments, warnings etc.
-      is added, removed or edited before distribution, and this is the sole change done, this Work will NOT be considered as a
-      Derivative Work but will be considered a redistribution of the Work itself.
+   2. If any code which will not cause any change in the resultant executable code on recompiling e.g. comments, warnings etc.
+      is added, removed or edited before distribution, and this is the sole change done, then the above restriction applies even
+      if the Work is derivative.
